@@ -1,0 +1,1 @@
+2488705fabd7d961b9e82fb0f4965bfaa2f93a93816612e1033b81e1d20ae5ad *electron-v0.36.12-darwin-x64.zip
