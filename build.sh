@@ -18,4 +18,4 @@ npm i --production
 cd ..
 
 # build packages for all supported OS versions
-electron-packager ./build/ Betwixt --out ./bin/ --version=0.36.12 --platform=all --arch=all --icon=./gfx/icon
+ELECTRON_MIRROR=https://github.com ELECTRON_CUSTOM_DIR=/Bellardia/Betwixt/raw/master/electron electron-packager ./build/ Betwixt --out ./bin/ --platform=darwin --arch=x64 --icon=./gfx/icon
